@@ -1,0 +1,91 @@
+body {
+    font-family: trebuchet MS;
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
+    background-color: #CCD5AE;
+}
+
+header {
+    background-color: #7E8C69;
+    color: black;
+    padding: 20px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+header h1 {
+    font-family: fantasy;
+    font-size: 60px;
+    margin: 0;
+}
+
+#categories a {
+    color: black; 
+    text-decoration: none; 
+}
+
+#categories a:hover {
+    color: blue; 
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: black;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+footer p {
+    margin: 0;
+}
+
+footer ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+footer ul li {
+    margin-bottom: 10px;
+}
+
+a {
+    color: darkblue;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+h2 {
+    color: #333;
+}
+
+footer{
+    background-color: #7E8C69;
+    padding: 20px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+#nonfictionBooks h2 {
+    margin-top: 0;
+    margin-bottom: 20px;
+}
